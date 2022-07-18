@@ -3,3 +3,17 @@ body {
     background-color: cornflowerblue;
     color:;
 }
+.very-cool {
+    font-weight: bold;
+}
+.box {
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    margin: 100px;
+    
+}
+.one {
+ color: green;
+}
