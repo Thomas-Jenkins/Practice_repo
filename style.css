@@ -1,10 +1,10 @@
 body {
     font-size: 40px;
     background-color: cornflowerblue;
-    color:;
 }
 .very-cool {
     font-weight: bold;
+    text-decoration: underline;
 }
 .box {
     height: 50px;
@@ -12,7 +12,6 @@ body {
     border: 2px solid black;
     padding: 2px;
     margin: 100px;
-    
 }
 .one {
  color: green;
